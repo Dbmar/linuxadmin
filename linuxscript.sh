@@ -1,1 +1,2 @@
 echo "don"
+date
